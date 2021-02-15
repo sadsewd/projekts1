@@ -13,3 +13,5 @@
 	- [x] pagatavotas pusdienas
 	- [x] pievienots teksts failam
 	- [x] Jaunveidotā zara iegūšana lokālai lietošanai
+	- [ ] Lokālā Git satura papildināšana
+	- [ ] Lokālā Git atkārtota izvietošana GitHub krātuvē
