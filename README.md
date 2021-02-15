@@ -11,3 +11,4 @@
 - [ ] Izdariti majasdarbi
 	- [x] iztīrita māja
 	- [x] pagatavotas pusdienas
+	- [x] pievienots teksts failam
