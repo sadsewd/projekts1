@@ -12,3 +12,4 @@
 	- [x] iztīrita māja
 	- [x] pagatavotas pusdienas
 	- [x] pievienots teksts failam
+	- [x] Jaunveidotā zara iegūšana lokālai lietošanai
